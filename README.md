@@ -1,4 +1,4 @@
-# Hi there, I'm Aniruddha 👋
+![Mountain Landscape Photography Etsy Banner (1)](https://github.com/aniruddha76/aniruddha76/assets/109715980/d582cb97-8a61-4bda-ba67-91b8cc0e19ae)
 
 ## Technical Skills 🖥
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
