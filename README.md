@@ -1,4 +1,4 @@
-![Mountain Landscape Photography Etsy Banner (1)](https://github.com/aniruddha76/aniruddha76/assets/109715980/d582cb97-8a61-4bda-ba67-91b8cc0e19ae)
+![Mountain Landscape Photography Etsy Banner](https://github.com/aniruddha76/aniruddha76/assets/109715980/d10e5786-5f34-4493-a428-d4639b4c8161)
 
 ## Technical Skills 🖥
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,4 +22,4 @@
 
 ## GitHub Stats 📊
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
-<img width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
+<img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
