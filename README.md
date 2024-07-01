@@ -2,7 +2,7 @@
 
 <h3 align='center'>
   ⚡ <a href="https://aniruddha-thakur.vercel.app/" target="_blank">Portfolio</a> ⚡
-  <br /><br />
+  <br />
 </h3>
 
 ## Technical Skills 🖥
