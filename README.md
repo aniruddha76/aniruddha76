@@ -29,7 +29,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## GitHub Stats 📊
-<div style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between;">
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
   <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
 </div>
