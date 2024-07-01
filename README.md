@@ -31,4 +31,4 @@
 ## GitHub Stats 📊
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
 <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
-<div align='center' width="51%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha76&theme=dark" /></div>
+<div align='center' width="30%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha76&theme=dark" /></div>
