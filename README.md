@@ -29,6 +29,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## GitHub Stats 📊
-<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
-<img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
-<div align='center'><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha76&theme=dark" /></div>
+<div style="display: flex; justify-content: space-between;">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
+  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha76&theme=dark" style="width: 50%;" />
+</div>
