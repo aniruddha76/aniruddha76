@@ -2,7 +2,7 @@
 
 <div align='center'>
   <a href="https://aniruddha-thakur.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="width: 15%; height: auto;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="width: 200px; height: auto;" />
   </a>
 </div>
 
