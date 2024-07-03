@@ -1,8 +1,10 @@
 ![Mountain Landscape Photography Etsy Banner](https://github.com/aniruddha76/aniruddha76/assets/109715980/d10e5786-5f34-4493-a428-d4639b4c8161)
 
-<h3 align='center'>
-  ⚡ <a href="https://aniruddha-thakur.vercel.app/" target="_blank">Portfolio</a> ⚡
-</h3>
+<div align='center'>
+  <a href="https://aniruddha-thakur.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="width: 15%; height: auto;" />
+  </a>
+</div>
 
 ## Technical Skills 🖥
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
