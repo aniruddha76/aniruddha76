@@ -1,7 +1,7 @@
 ![Mountain Landscape Photography Etsy Banner](https://github.com/aniruddha76/aniruddha76/assets/109715980/d10e5786-5f34-4493-a428-d4639b4c8161)
 
 <div align='center'>
-  <a href="https://aniruddha-thakur.vercel.app/">
+  <a href="https://aniruddha-nextjs-portfolio.vercel.app/" target='_blank'>
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="width: 150px; height: auto;" />
   </a>
 </div>
