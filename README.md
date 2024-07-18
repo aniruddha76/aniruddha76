@@ -32,7 +32,7 @@
 
 ## GitHub Stats 📊
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-bento.vercel.app/stats/aniruddha76" style="width: 60%;" />
+  <img src="https://github-readme-bento.vercel.app/stats/aniruddha76?theme=dark" style="width: 60%;" />
   <img width="51%" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&theme=dark&rank_icon=github" />
   <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha76&layout=compact&theme=dark" />
 </div>
